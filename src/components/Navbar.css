@@ -1,0 +1,45 @@
+.nav{
+    display:  flex;
+    border: 2px black solid;
+}
+.navbar-brand{
+    margin-left: 40px;
+    text-decoration: none;
+    color: black;
+    font-weight: 900;
+}
+.navbar-brand:hover{
+    background-color: black;
+    color: white;
+}
+.logo{
+    width: 70px;
+    height: 70px;
+    color: black;
+    /* filter: invert(100); */
+}
+.logo:hover{
+    filter: invert(100);
+}
+.caption{
+    display: flex;
+}
+.navlist{
+    margin-left: 300px;
+}
+.nav-link{
+    text-decoration: none;
+    margin-left: 80px;
+    color: black;
+    font-weight: 800;
+    padding: 20px;
+
+}
+.nav-link:hover{
+    background-color: black;
+    color: white;
+}
+ul{
+    display: flex;
+    list-style: none;
+}

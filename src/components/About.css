@@ -1,0 +1,18 @@
+.list{
+    margin-left: 70px;
+}
+.paragraph{
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-right: 50px;
+}
+.head{
+    margin-left: 50px;
+}
+.first{
+    background-image: url(https://www.wehouse.in/new-assets/images/background/bg-site.png);
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: center;
+    position: fixed;
+}

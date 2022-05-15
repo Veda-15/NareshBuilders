@@ -1,0 +1,30 @@
+.home{
+    font-style: bold;
+    /* background-image: url("./background.jpg"); */
+    background-repeat: no-repeat;
+    background-position: 0%;
+}
+.para{
+    background-color: rgba(255, 166, 0, 0.749);
+    margin: 40px;
+    font-weight: 600;
+    border: 4px red solid;
+    padding: 30px;
+    text-shadow: 2px white;
+    border-radius: 5px;
+    box-shadow: 2px;
+}
+.one{
+    margin-left: 300px;
+    
+}
+.two{
+    margin-left: 300px;
+    align-items: center;
+}
+.img1{
+    width: 400px;
+    height: 300px;
+    margin: 20px;
+    margin-left: 30px;
+}
